@@ -1,0 +1,27 @@
+{
+  "name": "es6-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javashifeng/es6-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javashifeng/es6-demo/issues"
+  },
+  "homepage": "https://github.com/javashifeng/es6-demo#readme",
+  "dependencies": {
+    "es2015": "0.0.0",
+    "system.global": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
